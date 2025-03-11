@@ -10,7 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devekpuchinwe" alt="devekpuchinwe" /></a> </p>
 
-- 🔭 I’m currently working on **AiTube**
+- 🔭 I’m currently working on **AiTube, and available for projects and freelancing.**
+-  🔭 I’m  working remotely at  **Mayorkay Technologies as a Software Developer**
+
 
 - 💬 Ask me about **Tech,Dart,Flutter,Python,Firebase,Web Tech , AI,etc**
 
